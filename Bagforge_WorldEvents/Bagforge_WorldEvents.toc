@@ -1,0 +1,12 @@
+## Interface: 120007
+## Title: |cfff5c072Bag|r|cfffd9b20forge|r - [World Events]
+## Notes: Category for Noblegarden, Brewfest, Darkmoon Faire, Lunar Festival, and other world event items.|n|n|cff5C8BCFDeveloper|cffffffff:|r |nJosh "|CFF7b8489Kkthnx|r" Russell|n|n|cff009cdePayPal|r|cffffffff:|r |n|cffffffffwww.paypal.me/KkthnxTV|r|n|n|cfff96854Patreon|r|cffffffff:|r |n|cffffffffwww.patreon.com/Kkthnx|r|n|n
+## Version: 1.0.0
+## Author: Josh "|CFF7b8489Kkthnx|r" Russell
+## Dependencies: Bagforge
+## IconTexture: Interface\Addons\Bagforge_WorldEvents\assets\Icon64.blp
+## X-Category: Bags & Inventory
+
+localization.lua
+Database.lua
+Core.lua
